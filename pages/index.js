@@ -1545,7 +1545,7 @@ export default function Home() {
             <h2>Ready To Get Started?</h2>
             <p className="text-light">
               Don't waste another minute.Create an account now and start saving
-              more time.Do even more with the Arribo.
+              more time.Do even more with the NBTCash.
             </p>
           </div>
           <div className="col-lg-6 col-md-4">
@@ -1558,7 +1558,7 @@ export default function Home() {
           {/*start footer widget single*/}
           <div className="col-lg-3 col-md-6">
             <div className="footer-widget">
-              <h3>Arribo</h3>
+              <h3>NBTCash</h3>
               <ul>
                 <li>
                   <a href="#">
@@ -1758,7 +1758,7 @@ export default function Home() {
       <div className="footer-copyright">
         <div className="row">
           <div className="col-lg-6 col-md-7">
-            <p>© 2019 Arribo | All right reserved.</p>
+            <p>© 2022 NBTCash | All right reserved.</p>
           </div>
           <div className="col-lg-6 col-md-5">
             <div className="footer-social text-right">
