@@ -16,7 +16,7 @@ export default function Home() {
   />
   <meta name="keywords" content="" />
   <meta name="description" content="" />
-  <title>Arribo - App Landing Page</title>
+  <title>NBT Cash</title>
   {/*favicon*/}
   <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png" />
   {/*bootstrap css*/}
